@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/icapital/static/css/main.07e487ad.css",
+    "main.js": "/icapital/static/js/main.1906c434.js",
+    "static/js/787.73d1b55c.chunk.js": "/icapital/static/js/787.73d1b55c.chunk.js",
+    "static/media/1.jpeg": "/icapital/static/media/1.9e2eec25f20e3543677b.jpeg",
+    "static/media/4.jpeg": "/icapital/static/media/4.61ef2982447925147305.jpeg",
+    "static/media/45.jpeg": "/icapital/static/media/45.265ff7e281e96378280e.jpeg",
+    "static/media/56.jpeg": "/icapital/static/media/56.633fd36a1ca4663a5f9f.jpeg",
+    "static/media/ba.jpg": "/icapital/static/media/ba.adc5d9011f45890ed05e.jpg",
+    "static/media/whatsapp.png": "/icapital/static/media/whatsapp.b8d4dc07f2258d20bf77.png",
+    "static/media/ange2.jpg": "/icapital/static/media/ange2.b2d022c926498d14d2ed.jpg",
+    "static/media/check1.png": "/icapital/static/media/check1.88af541f45dc7263c3b8.png",
+    "static/media/money.png": "/icapital/static/media/money.7d4369ffd3f76f83bab2.png",
+    "static/media/tres.png": "/icapital/static/media/tres.5bef645f40d6668e1110.png",
+    "static/media/monidea.png": "/icapital/static/media/monidea.13152c38741b1ba0ab66.png",
+    "static/media/dos.png": "/icapital/static/media/dos.a0329b6855e911acbddb.png",
+    "static/media/business-and-finance.png": "/icapital/static/media/business-and-finance.4386d70a4d5a591f443a.png",
+    "static/media/hand.png": "/icapital/static/media/hand.7c4885d86f1abfed5fb4.png",
+    "static/media/apreton.png": "/icapital/static/media/apreton.e0bcf8f2a2f4a9c6e9e0.png",
+    "static/media/1.png": "/icapital/static/media/1.a63c0e514150e8c2fa85.png",
+    "static/media/contrato.png": "/icapital/static/media/contrato.c75914a9dc2f1de2f4e9.png",
+    "static/media/bars.png": "/icapital/static/media/bars.c19d00956fe82a989afd.png",
+    "index.html": "/icapital/index.html",
+    "main.07e487ad.css.map": "/icapital/static/css/main.07e487ad.css.map",
+    "main.1906c434.js.map": "/icapital/static/js/main.1906c434.js.map",
+    "787.73d1b55c.chunk.js.map": "/icapital/static/js/787.73d1b55c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07e487ad.css",
+    "static/js/main.1906c434.js"
+  ]
+}
